@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLAB", "WPFLAB\WPFLAB.csproj", "{7E7C6AD4-E715-4877-9048-B215BF5DB8C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7C6AD4-E715-4877-9048-B215BF5DB8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7C6AD4-E715-4877-9048-B215BF5DB8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7C6AD4-E715-4877-9048-B215BF5DB8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7C6AD4-E715-4877-9048-B215BF5DB8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31598911-8679-43CD-A3F7-1D09FBE95FD7}
+	EndGlobalSection
+EndGlobal
